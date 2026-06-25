@@ -1,27 +1,80 @@
-# 💫 About Me:
-🔭 I’m currently working on my problem solving skills and Full stack development<br>🌱 I’m currently learning DSA in CPP<br>⚡ Fun fact - I love watching movies , learning languages
+# Ankith M
 
+Final-year B.Tech student in Smart Manufacturing at PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (IIITDMJ). Passionate about building production-grade mobile and web applications with modern technologies.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__ankith__m/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankith-m-589821257/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankithm113@gmail.com) 
+## About Me
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankith-m1006&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ankith-m1006&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankith-m1006&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I am a dedicated full-stack and mobile developer with strong experience in React Native (Expo ecosystem), micro-frontend architectures, real-time systems, and backend development. I enjoy solving complex engineering problems and shipping scalable products from concept to deployment.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ankith-m1006&theme=prussian&no-frame=false&no-bg=false&margin-w=4)
+## Education
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Bachelor of Technology in Smart Manufacturing**  
+PDPM Indian Institute of Information Technology, Design and Manufacturing, Jabalpur (IIITDMJ)  
+Nov 2022 – May 2026 | CGPA: 7.0/10.0
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Ankith-m1006&limit=5&theme=dark&combine_all_yearly_contributions=true)
+**HSC (Class XII)** – Sir M.V. PU College, Karnataka | 91.8% (2022)  
+**SSC (Class X)** – New Empress Public School, Karnataka | 96.84% (2020)
+
+## Professional Experience
+
+**Associate Software Developer Intern**  
+CampX (EdTech) | Remote | Jan 2026 – Jun 2026
+- Designed and implemented the runtime module-loading layer for a React Native micro-frontend architecture (1 Host + 3 workspace apps + 2 shared feature apps) using Re.Pack and Module Federation V2.
+- Built a reusable library of 45+ TypeScript components and 25+ page patterns, documented with 75+ Storybook stories.
+- Delivered the complete Engagement feature app (6 modules) with full UI and REST API integration.
+- Engineered real-time Course Chat using JWT-authenticated WebSockets with custom reconnection logic.
+- Migrated deployment pipeline from Zephyr Cloud OTA to GitHub Actions + EAS + AWS S3 + CloudFront.
+
+**Founding Engineer Intern**  
+IvishAI Quantum Pvt Ltd | Remote | Dec 2024 – Apr 2025
+- Co-built VerbX AI, a multilingual translation platform supporting 100+ languages with offline and AR capabilities.
+- Developed Python + FastAPI backend with REST APIs for authentication, file uploads, translation, and ML inference orchestration.
+- Deployed ONNX inference endpoints for STT, TTS, machine translation, NER, emotion detection, and OCR.
+- Built real-time cross-language chat using Redis pub/sub.
+- Developed the complete React Native client with offline-first architecture and optimistic UI.
+
+**Intern**  
+Kyuden International Corporation, Japan | Japan | Oct 2025 – Dec 2025
+- Selected under the MIRAI-Setu Japan Government Scholarship.
+- Collaborated with international teams on digital workflows, QA reviews, and quality processes.
+
+## Projects
+
+**Prayana — AI-powered Karnataka Travel Itinerary App** (Solo Project)  
+Mar 2026 – Present | [prayana.app](https://prayana.app)
+- Built a full-featured React Native app with 79 screens generating personalized day-by-day travel itineraries.
+- Implemented a 6-model Gemini fallback chain for reliable AI generation.
+- Integrated PhonePe payments, Firebase backend, admin dashboard, and offline support.
+- Currently in Play Store internal testing.
+
+**Docify — Real-time Collaborative Web Editor**  
+Dec 2024 – May 2025
+- Developed a MERN stack collaborative document editor with live multi-user editing via Socket.IO.
+- Implemented JWT authentication, role-based access control, and optimized state management.
+
+**VerbX Institutional App**  
+Live on Google Play Store: [Play Store Link](https://play.google.com/store/apps/details?id=com.verbx.institutionalapp)
+
+## Skills
+
+**Languages**: TypeScript, JavaScript, Python, C++  
+**Mobile**: React Native, Expo, Re.Pack, Module Federation V2, EAS, NativeWind  
+**Frontend**: React.js, Tailwind CSS, Zustand, Storybook  
+**Backend**: FastAPI, Node.js, Express, REST APIs, WebSocket (Socket.IO), JWT  
+**Databases**: PostgreSQL, MongoDB, Firestore, Redis  
+**Cloud & DevOps**: AWS (S3, CloudFront), Firebase, Docker, GitHub Actions, Git  
+**Other**: Micro-frontend architecture, LLM orchestration, real-time systems, OTA deployments
+
+## Achievements
+
+- Recipient of **MIRAI-Setu Japan Government Scholarship** (2025) for India-Japan cultural and technological exchange.
+
+## Connect With Me
+
+- Email: ankithm113@gmail.com
+- LinkedIn: [linkedin.com/in/ankith-m-589821257](https://linkedin.com/in/ankith-m-589821257)
+- GitHub: [github.com/Ankith-m1006](https://github.com/Ankith-m1006)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankith-m1006&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+*Last updated: June 2026*
