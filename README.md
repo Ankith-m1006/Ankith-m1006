@@ -37,7 +37,7 @@ My approach is simple:
 
 # Experience
 
-## Co-founder & CTO / Founding Engineer
+## Co-founder/ Founding Engineer
 ### Ivish AI Quantum Pvt. Ltd.
 
 Worked across the company's AI and software product ecosystem, with a major focus on **VerbX**.
