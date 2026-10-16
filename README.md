@@ -1,4 +1,4 @@
-ii# Ankith M
+# Ankith M
 
 ### Software Engineer · AI Engineer · Full-Stack & Mobile Developer · Product Builder
 
@@ -403,3 +403,15 @@ At the same time, I continue to build and improve products across the **VerbX ec
 ---
 
 > **I don't just like building software. I like taking an idea that doesn't exist yet and making it real.
+
+🏙️ My GitHub Contribution City
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Ankith-m1006/Ankith-m1006/main/profile-3d-contrib/profile-night-green.svg"
+    alt="My 3D GitHub contribution skyline"
+    width="100%"
+  />
+</p><p align="center">
+  Building my city one contribution at a time. 🚀
+</p>
