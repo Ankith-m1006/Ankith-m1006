@@ -323,7 +323,7 @@ SDKs, APIs, localization systems, deployment pipelines, and tools that other dev
 - 🛠️ Currently building **VIGYL** as a long-term independent developer product.
 
 ### Open Source Contributions
-[![Contributor](https://img.shields.io/badge/1st%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
+[![Contributor](https://img.shields.io/badge/50%20PR%20MERGED-KESTRA-1F232C?style=for-the-badge&logo=github&logoColor=200062&labelColor=CDC5FF)](https://kestra.io/community?from=github-badge)
 
 ---
 
