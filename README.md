@@ -104,7 +104,7 @@ Selected for the India–Japan government exchange program: Japanese engineering
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ankith-m1006/Ankith-m1006/output/profile-night-green.svg" alt="My GitHub contributions as a 3D city" width="100%" />
+  <img src="https://raw.githubusercontent.com/Ankith-m1006/Ankith-m1006/output/profile-night-green.svg?v=2" alt="My GitHub contributions as a 3D city" width="100%" />
 </p>
 
 > I don't just like building software. I like taking an idea that doesn't exist yet and making it real.
