@@ -80,13 +80,13 @@ Every build gets a write-up on [DEV](https://dev.to/ankithm1006). Recent ones:
 
 ## Experience
 
-**Co-founder / Founding Engineer · Ivish AI Quantum Pvt Ltd** · Dec 2024 – now
+**Co-founder / Founding Engineer · Ivish AI Quantum Pvt Ltd** · Dec 2024 – now  
 AI and product ecosystem, mainly VerbX: inference, translation, STT, TTS, OCR, NER, backend APIs, mobile apps and cloud.
 
-**Associate Software Developer Intern · [CampX EdTech](https://campx.in)** · Jan – Jun 2026 · Remote
+**Associate Software Developer Intern · [CampX EdTech](https://campx.in)** · Jan – Jun 2026 · Remote  
 Production features, reusable UI components, real-time functionality and API integrations across the Student, Faculty and Parent workspaces. The [Student app](https://play.google.com/store/apps/details?id=in.campx.student) I worked on is live on Google Play.
 
-**MIRAI-Setu Japan Industry Program · Kyuden International Corporation, Japan** · Oct 2025
+**MIRAI-Setu Japan Industry Program · Kyuden International Corporation, Japan** · Oct 2025  
 Selected for the India–Japan government exchange program: Japanese engineering practice, quality processes and structured problem-solving.
 
 **B.Tech, Smart Manufacturing · PDPM IIITDM Jabalpur**
@@ -95,12 +95,16 @@ Selected for the India–Japan government exchange program: Japanese engineering
 
 ## Tech stack
 
-**Languages** `TypeScript` `JavaScript` `Python` `C++` `SQL`
-**Frontend & mobile** `React` `Next.js` `React Native` `Expo` `Tailwind CSS` `Zustand` `Remotion`
-**Backend** `FastAPI` `Node.js` `Express` `REST` `WebSockets` `Socket.IO` `Redis`
-**AI / ML** `LLM evaluation` `AI agents` `MCP` `ONNX` `PyTorch` `STT` `TTS` `OCR` `NER` `Machine translation`
+**Languages** `TypeScript` `JavaScript` `Python` `C++` `SQL`  
+**Frontend & mobile** `React` `Next.js` `React Native` `Expo` `Tailwind CSS` `Zustand` `Remotion`  
+**Backend** `FastAPI` `Node.js` `Express` `REST` `WebSockets` `Socket.IO` `Redis`  
+**AI / ML** `LLM evaluation` `AI agents` `MCP` `ONNX` `PyTorch` `STT` `TTS` `OCR` `NER` `Machine translation`  
 **Data & cloud** `PostgreSQL` `MongoDB` `Firestore` `Docker` `Google Cloud` `AWS` `Firebase` `GitHub Actions`
 
 ---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ankith-m1006/Ankith-m1006/output/profile-night-green.svg" alt="My GitHub contributions as a 3D city" width="100%" />
+</p>
 
 > I don't just like building software. I like taking an idea that doesn't exist yet and making it real.
